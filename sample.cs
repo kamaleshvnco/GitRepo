@@ -6,4 +6,4 @@ Console.WriteLine("The sum of a and b is: " + sum);
 int a = 40;
 int b = 30;
 int product = a * b;
-Console.WriteLine("The product of a and b is: " + product);
+Console.WriteLine("The division of a and b is: " + product);
